@@ -1,1 +1,1 @@
-# physics299b
+# Download the Jupyter notebook from the repository
